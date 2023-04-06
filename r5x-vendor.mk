@@ -3480,7 +3480,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
-    libMpeg4SwEncoder \
     CACertService \
     CneApp \
     SoterService \
